@@ -1,0 +1,6 @@
+@Yobzh_HostAddress = http://localhost:5113
+
+GET {{Yobzh_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

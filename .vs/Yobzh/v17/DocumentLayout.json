@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Shift\\source\\repos\\Yobzh\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E64875A-3C3A-48A7-B73D-738B1DE50210}|Yobzh\\Yobzh.csproj|c:\\users\\shift\\source\\repos\\yobzh\\yobzh\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E64875A-3C3A-48A7-B73D-738B1DE50210}|Yobzh\\Yobzh.csproj|solutionrelative:yobzh\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E64875A-3C3A-48A7-B73D-738B1DE50210}|Yobzh\\Yobzh.csproj|c:\\users\\shift\\source\\repos\\yobzh\\yobzh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E64875A-3C3A-48A7-B73D-738B1DE50210}|Yobzh\\Yobzh.csproj|solutionrelative:yobzh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E64875A-3C3A-48A7-B73D-738B1DE50210}|Yobzh\\Yobzh.csproj|c:\\users\\shift\\source\\repos\\yobzh\\yobzh\\business\\models\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E64875A-3C3A-48A7-B73D-738B1DE50210}|Yobzh\\Yobzh.csproj|solutionrelative:yobzh\\business\\models\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E64875A-3C3A-48A7-B73D-738B1DE50210}|Yobzh\\Yobzh.csproj|c:\\users\\shift\\source\\repos\\yobzh\\yobzh\\business\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E64875A-3C3A-48A7-B73D-738B1DE50210}|Yobzh\\Yobzh.csproj|solutionrelative:yobzh\\business\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E64875A-3C3A-48A7-B73D-738B1DE50210}|Yobzh\\Yobzh.csproj|c:\\users\\shift\\source\\repos\\yobzh\\yobzh\\data\\yobzhcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E64875A-3C3A-48A7-B73D-738B1DE50210}|Yobzh\\Yobzh.csproj|solutionrelative:yobzh\\data\\yobzhcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E64875A-3C3A-48A7-B73D-738B1DE50210}|Yobzh\\Yobzh.csproj|c:\\users\\shift\\source\\repos\\yobzh\\yobzh\\business\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E64875A-3C3A-48A7-B73D-738B1DE50210}|Yobzh\\Yobzh.csproj|solutionrelative:yobzh\\business\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E64875A-3C3A-48A7-B73D-738B1DE50210}|Yobzh\\Yobzh.csproj|c:\\users\\shift\\source\\repos\\yobzh\\yobzh\\data\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E64875A-3C3A-48A7-B73D-738B1DE50210}|Yobzh\\Yobzh.csproj|solutionrelative:yobzh\\data\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E64875A-3C3A-48A7-B73D-738B1DE50210}|Yobzh\\Yobzh.csproj|c:\\users\\shift\\source\\repos\\yobzh\\yobzh\\data\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E64875A-3C3A-48A7-B73D-738B1DE50210}|Yobzh\\Yobzh.csproj|solutionrelative:yobzh\\data\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E64875A-3C3A-48A7-B73D-738B1DE50210}|Yobzh\\Yobzh.csproj|c:\\users\\shift\\source\\repos\\yobzh\\yobzh\\business\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E64875A-3C3A-48A7-B73D-738B1DE50210}|Yobzh\\Yobzh.csproj|solutionrelative:yobzh\\business\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E64875A-3C3A-48A7-B73D-738B1DE50210}|Yobzh\\Yobzh.csproj|c:\\users\\shift\\source\\repos\\yobzh\\yobzh\\data\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E64875A-3C3A-48A7-B73D-738B1DE50210}|Yobzh\\Yobzh.csproj|solutionrelative:yobzh\\data\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E64875A-3C3A-48A7-B73D-738B1DE50210}|Yobzh\\Yobzh.csproj|c:\\users\\shift\\source\\repos\\yobzh\\yobzh\\data\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E64875A-3C3A-48A7-B73D-738B1DE50210}|Yobzh\\Yobzh.csproj|solutionrelative:yobzh\\data\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\Shift\\source\\repos\\Yobzh\\Yobzh\\Business\\Models\\ProductDto.cs",
+              "RelativeDocumentMoniker": "Yobzh\\Business\\Models\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\Shift\\source\\repos\\Yobzh\\Yobzh\\Business\\Models\\ProductDto.cs",
+              "RelativeToolTip": "Yobzh\\Business\\Models\\ProductDto.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA5wAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T18:41:07.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Shift\\source\\repos\\Yobzh\\Yobzh\\Business\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Yobzh\\Business\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Shift\\source\\repos\\Yobzh\\Yobzh\\Business\\Services\\ProductService.cs",
+              "RelativeToolTip": "Yobzh\\Business\\Services\\ProductService.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAmwAgAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T18:01:43.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "YobzhContext.cs",
+              "DocumentMoniker": "C:\\Users\\Shift\\source\\repos\\Yobzh\\Yobzh\\Data\\YobzhContext.cs",
+              "RelativeDocumentMoniker": "Yobzh\\Data\\YobzhContext.cs",
+              "ToolTip": "C:\\Users\\Shift\\source\\repos\\Yobzh\\Yobzh\\Data\\YobzhContext.cs",
+              "RelativeToolTip": "Yobzh\\Data\\YobzhContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T17:35:20.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Shift\\source\\repos\\Yobzh\\Yobzh\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Yobzh\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Shift\\source\\repos\\Yobzh\\Yobzh\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Yobzh\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T17:42:04.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Shift\\source\\repos\\Yobzh\\Yobzh\\Data\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Yobzh\\Data\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Shift\\source\\repos\\Yobzh\\Yobzh\\Data\\UnitOfWork.cs",
+              "RelativeToolTip": "Yobzh\\Data\\UnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T17:35:59.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Shift\\source\\repos\\Yobzh\\Yobzh\\Data\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Yobzh\\Data\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Shift\\source\\repos\\Yobzh\\Yobzh\\Data\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Yobzh\\Data\\Repositories\\ProductRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T17:10:32.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Shift\\source\\repos\\Yobzh\\Yobzh\\Data\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Yobzh\\Data\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Shift\\source\\repos\\Yobzh\\Yobzh\\Data\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "Yobzh\\Data\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T17:08:31.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Shift\\source\\repos\\Yobzh\\Yobzh\\Data\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Yobzh\\Data\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Shift\\source\\repos\\Yobzh\\Yobzh\\Data\\Entities\\Product.cs",
+              "RelativeToolTip": "Yobzh\\Data\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T17:06:00.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Shift\\source\\repos\\Yobzh\\Yobzh\\Program.cs",
+              "RelativeDocumentMoniker": "Yobzh\\Program.cs",
+              "ToolTip": "C:\\Users\\Shift\\source\\repos\\Yobzh\\Yobzh\\Program.cs",
+              "RelativeToolTip": "Yobzh\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACsAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T17:03:09.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Shift\\source\\repos\\Yobzh\\Yobzh\\Business\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "Yobzh\\Business\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Shift\\source\\repos\\Yobzh\\Yobzh\\Business\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "Yobzh\\Business\\Interfaces\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T18:00:32.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Shift\\source\\repos\\Yobzh\\Yobzh\\Business\\Mapper\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Yobzh\\Business\\Mapper\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Shift\\source\\repos\\Yobzh\\Yobzh\\Business\\Mapper\\MappingProfile.cs",
+              "RelativeToolTip": "Yobzh\\Business\\Mapper\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T18:18:40.972Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
